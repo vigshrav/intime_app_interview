@@ -1,3 +1,6 @@
+![Screenshot_1696938127](https://github.com/vigshrav/intime_app_interview/assets/72376447/452489c9-44c0-449c-90bf-12860779196e)
+
+
 # intime_digital_interview
 
 A new Flutter project.

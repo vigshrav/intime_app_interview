@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820107422687",
+    "project_id": "intime-digital-app-interview",
+    "storage_bucket": "intime-digital-app-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820107422687:android:1537ba0a4f6097f51c726a",
+        "android_client_info": {
+          "package_name": "com.example.intime_digital_interview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdRiv4gZBvtNjGLwchIqa-C6f_96lDUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
